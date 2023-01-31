@@ -1,0 +1,1 @@
+this is a simple calculator that take math priority when solveing the given probleam 
